@@ -13,6 +13,7 @@
 		FAE2EA2E27F4F60500D97FA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE2EA2C27F4F60500D97FA2 /* Main.storyboard */; };
 		FAE2EA3027F4F60600D97FA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAE2EA2F27F4F60600D97FA2 /* Assets.xcassets */; };
 		FAE2EA3327F4F60600D97FA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE2EA3127F4F60600D97FA2 /* LaunchScreen.storyboard */; };
+		FAE2EA3B27F4FC5800D97FA2 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE2EA3A27F4FC5800D97FA2 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FAE2EA2F27F4F60600D97FA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAE2EA3227F4F60600D97FA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAE2EA3427F4F60600D97FA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAE2EA3A27F4FC5800D97FA2 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FAE2EA2827F4F60500D97FA2 /* SceneDelegate.swift */,
 				FAE2EA2A27F4F60500D97FA2 /* ViewController.swift */,
 				FAE2EA2C27F4F60500D97FA2 /* Main.storyboard */,
+				FAE2EA3A27F4FC5800D97FA2 /* NextViewController.swift */,
 				FAE2EA2F27F4F60600D97FA2 /* Assets.xcassets */,
 				FAE2EA3127F4F60600D97FA2 /* LaunchScreen.storyboard */,
 				FAE2EA3427F4F60600D97FA2 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAE2EA2B27F4F60500D97FA2 /* ViewController.swift in Sources */,
+				FAE2EA3B27F4FC5800D97FA2 /* NextViewController.swift in Sources */,
 				FAE2EA2727F4F60500D97FA2 /* AppDelegate.swift in Sources */,
 				FAE2EA2927F4F60500D97FA2 /* SceneDelegate.swift in Sources */,
 			);

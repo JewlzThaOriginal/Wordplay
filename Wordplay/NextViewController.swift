@@ -12,10 +12,16 @@ class NextViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        baseballGame.text = "My Uncle Wants To Go To The " + wordEnter + "."
+        
         // Do any additional setup after loading the view.
     }
     
-
+    @IBOutlet weak var baseballGame: UILabel!
+    var wordEnter = ""
+    
+    
+    
     /*
     // MARK: - Navigation
 
